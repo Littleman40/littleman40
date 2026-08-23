@@ -5,6 +5,12 @@
 
 <br>
 
+<h2>Currently Building - Rush AC</h2>
+<p><b>An Assetto Corsa Time Trial App @ https://rushac.app/</b></p>
+<p>Pushing drivers to the absolute limit with competitive time trials, in-depth performance stats and monthly competitions built for drivers chasing perfection.</p>
+
+<br>
+
 <h2>Open-Source Projects</h2>
 
 <h3>Assetto Corsa Apps</h3>
