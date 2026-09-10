@@ -14,15 +14,6 @@
 
 <h2>Open-Source Projects</h2>
 
-<h3>Assetto Corsa Apps</h3>
-
-<ul>
-  <li>
-    <a href="https://github.com/Littleman40/lm-timing"><b>LM Timing</b></a><br>
-    A route timing app for Assetto Corsa: build routes with custom timing gates, race them with live splits and deltas, and share them with friends.
-  </li>
-</ul>
-
 <h3>Websites</h3>
 
 <ul>
