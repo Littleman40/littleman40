@@ -3,15 +3,6 @@
   <p>I am a 18-year-old Australian, currently learning to be a software engineer.</p>
 </div>
 
-<br>
-
-<h2>Currently Building - Rush AC</h2>
-<h3><b>An Assetto Corsa Time Trial App @ https://rushac.app/</b></h3>
-<p>Pushing drivers to the absolute limit with competitive time trials, in-depth performance stats and monthly competitions built for drivers chasing perfection.</p>
-
-
-<br>
-
 <h2>Open-Source Projects</h2>
 
 <h3>Websites</h3>
@@ -40,4 +31,4 @@
   </li>
 </ul>
 
-<!-- What the fuck are you looking for? There's no pot of gold down (t)here - iykyk -->
+<!-- What the f*ck are you looking for? There's no pot of gold down (t)here - iykyk -->
