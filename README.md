@@ -18,16 +18,26 @@
   </li>
 </ul>
 
+<h3>Apps</h3>
+
+<ul>
+  <li>
+    <a href="https://github.com/Littleman40/lm-timing"><b>LM Timing</b></a><br>
+    A route timing app for Assetto Corsa: build routes with custom timing gates, race them with live splits and deltas, and share them with friends.
+  </li>
+  <li>
+    <a href="https://github.com/Littleman40/blacknotes-app"><b>Black Notes</b></a><br>
+    A Minimalist Desktop Note Taking App, built with Electron & Svelte 5, with a markdown-style format and an optional inline AI assistant.
+  </li>
+</ul>
+
+
 <h3>Miscellaneous</h3>
 
 <ul>
   <li>
     <a href="https://github.com/Littleman40/nohesi-faq"><b>No Hesi FAQ</b></a><br>
     A continuously updated backup of all FAQ posts made on the No Hesi Discord.
-  </li>
-  <li>
-    <a href="https://github.com/Littleman40/blacknotes-app"><b>Black Notes</b></a><br>
-    A Minimalist Desktop Note Taking App, built with Electron & Svelte 5, with a markdown-style format and an optional inline AI assistant.
   </li>
 </ul>
 
