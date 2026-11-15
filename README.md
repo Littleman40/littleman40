@@ -36,6 +36,10 @@
 
 <ul>
   <li>
+    <a href="https://github.com/Littleman40/No-Hesi-RAG-helper"><b>No Hesi RAG Helper</b></a><br>
+    Local RAG assistant that answers No Hesi's player questions from the official FAQ: hybrid BM25 + vector search, cited answers, refusals and human escalation, measured on a labelled eval set.
+  </li>
+  <li>
     <a href="https://github.com/Littleman40/nohesi-faq"><b>No Hesi FAQ</b></a><br>
     A continuously updated backup of all FAQ posts made on the No Hesi Discord.
   </li>
